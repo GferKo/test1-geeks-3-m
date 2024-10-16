@@ -1,0 +1,10 @@
+#colorBlock {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    cursor: pointer;
+}
+.active {
+    background-color: blue;
+}
